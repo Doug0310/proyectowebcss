@@ -1,0 +1,45 @@
+*{
+    margin: 0 auto;
+    padding: 5px;
+}
+
+header{
+    
+   
+   justify-content: space-between;
+   height: 90px;
+   background-color: beige;
+   padding: 0px;
+   margin: 0 auto;
+   
+  
+       
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    padding-right: 100%;
+}
+
+.logo img{
+    height:70px;
+    margin-right: 10px;
+    display: flex;
+    
+    
+}
+
+
+
+
+h2{
+    background-color: blueviolet;
+}
+
